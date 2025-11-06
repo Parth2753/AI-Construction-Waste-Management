@@ -29,26 +29,35 @@ This project demonstrates how AI-driven logic can help track and manage construc
 
 ## 🛠️ Tech Stack  
 | Technology | Purpose |
+<br>
 |-------------|----------|
+<br>
 | **HTML5** | Webpage structure and layout |
+<br>
 | **CSS3** | Styling and animations |
+<br>
 | **JavaScript (ES6)** | Logic, data handling, and interactivity |
 
 ---
 
 ## 📂 Folder Structure  
 AI-Construction-Waste-Management/
+<br>
 │
 ├── index.html               # Main HTML file (previously waste.html)
+<br>
 │
 ├── css/                     # Folder for stylesheets
 │   └── style.css            # Main CSS file
+<br>
 │
 ├── js/                      # Folder for scripts
 │   └── script.js            # Main JavaScript file
+<br>
 │
 ├── assets/                  # Folder for images, icons, or other assets
-│   └── (optional files)     
+│   └── (optional files)
+<br>
 │
 ├── README.md                # Project documentation
 ├── LICENSE                  # (Optional) License file
