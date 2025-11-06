@@ -85,9 +85,13 @@ AI-Construction-Waste-Management/
 
 ## 🚧 Future Enhancements-
 🧠 Integrate an AI/ML model for real-time waste detection and classification.
+<br>
 📊 Add visual charts or dashboards for analytics.
+<br>
 ☁️ Store data in a database like Firebase or MongoDB.
+<br>
 🔐 Add user login for site-wise tracking and management.
+<br>
 🎛️ Introduce dark/light mode toggle for user experience.
 
 ## 👨‍💻 Coder-
