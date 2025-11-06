@@ -102,6 +102,8 @@ Parth Rohilla
 
 # Notes
 This was a task that was given by my teamleader for a online hackathon
+<br>
+HTML,CSS AND JS took three of them in a single file so it is gonna show html as the most used language.just to clear out the doubts and the confusion
 
 # ✨ I hope you guys like it
 
