@@ -98,9 +98,13 @@ AI-Construction-Waste-Management/
 Parth Rohilla
 <br>
 🌐 Github Profile-https://github.com/Parth2753
+<br>
 
 # Notes
 This was a task that was given by my teamleader for a online hackathon
+
+# ✨ I hope you guys like it
+
 
 
 
