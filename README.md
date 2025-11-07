@@ -83,7 +83,7 @@ AI-Construction-Waste-Management/
 
 ---
 
-## 🚧 Future Enhancements-
+## 🚧 Future Enhancements:
 🧠 Integrate an AI/ML model for real-time waste detection and classification.
 <br>
 📊 Add visual charts or dashboards for analytics.
@@ -94,7 +94,7 @@ AI-Construction-Waste-Management/
 <br>
 🎛️ Introduce dark/light mode toggle for user experience.
 
-## 👨‍💻 Coder-
+## 👨‍💻 Coder:
 Parth Rohilla
 <br>
 🌐 Github Profile-https://github.com/Parth2753
