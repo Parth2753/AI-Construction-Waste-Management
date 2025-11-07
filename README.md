@@ -104,6 +104,10 @@ Parth Rohilla
 1)This was a task that was given by my teamleader for a online hackathon
 <br>
 2)HTML,CSS AND JS took three of them in a single file so it is gonna show html as the most used language.just to clear out the doubts and the confusion
+<br>
+3)For Jss i used the cheatsheet along with and and copy the code in internet and find out their function
+<br>
+4) Took help with Chatgpt for suggestions required for the this Webpage
 
 # ✨ I hope you guys like it
 
