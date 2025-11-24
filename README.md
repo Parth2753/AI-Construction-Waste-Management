@@ -98,3 +98,9 @@ AI-Construction-Waste-Management/
 Parth Rohilla
 <br>
 🌐 Github Profile-https://github.com/Parth2753
+
+Note:
+<br>
+For js i uused my js cheatsheet and asked chatgpt about each and every code function and made it according to it
+<br>
+For CSS and HTML i used the notes which was shared by IARE in the telegram group
