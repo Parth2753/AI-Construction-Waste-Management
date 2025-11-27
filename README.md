@@ -102,4 +102,4 @@ Note:
 <br>
 For js i used my js cheatsheet and asked chatgpt about each and every code function and made it according to it
 <br>
-For CSS and HTML i used the notes which was shared by IARE teacher suryanarayana sir during frotend seminarin auditorium and after the session shared it in the telegram group
+For CSS and HTML i used the notes which was shared by IARE teacher suryanarayana sir during frontend seminar in auditorium and after the session shared it in the telegram group of iare
