@@ -72,8 +72,8 @@ AI-Construction-Waste-Management/
 5) The UI uses glassmorphism, gradients, and smooth animations for a futuristic design.
 
 ---
-
-✅ **How to use:**  
+✅ **How to use:** 
+---
 1. Copy the entire block above.  
 2. Create a new file in your repo named `README.md`.  
 3. Paste the content.  
@@ -93,13 +93,14 @@ AI-Construction-Waste-Management/
 <br>
 🎛️ Introduce dark/light mode toggle for user experience.
 
+---
 ## 👨‍💻 Coder:
 Parth Rohilla
 <br>
 🌐 Github Profile-https://github.com/Parth2753
 
-Note:
-<br>
+---
+## Note:
 For js i used my js cheatsheet and asked chatgpt about each and every code function and made it according to it
 <br>
 For CSS and HTML i used the notes which was shared by IARE teacher suryanarayana sir during frontend seminar in auditorium and after the session shared it in the telegram group of iare
