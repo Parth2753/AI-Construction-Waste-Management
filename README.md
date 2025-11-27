@@ -1,4 +1,3 @@
-
 # 🏗️ AI Construction Waste Management  
 
 ![Built With](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-blue?style=for-the-badge)
@@ -101,6 +100,6 @@ Parth Rohilla
 
 Note:
 <br>
-For js i uused my js cheatsheet and asked chatgpt about each and every code function and made it according to it
+For js i used my js cheatsheet and asked chatgpt about each and every code function and made it according to it
 <br>
-For CSS and HTML i used the notes which was shared by IARE in the telegram group
+For CSS and HTML i used the notes which was shared by IARE teacher suryanarayana sir during frotend seminarin auditorium and after the session shared it in the telegram group
